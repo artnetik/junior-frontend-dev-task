@@ -24,4 +24,5 @@ Users should be able to switch between wine yards by clicking the icon with text
 3. Styles should be written in Sass (SCSS).
 4. Pay attention to code quality, formatting, conventions etc. (Your code is your business card)
 5. Send us the link to the site and access to your GitHub repo to check out your work!
-7. BONUS: Try to use Github Actions to generate and deploy static page on Github pages, when ever user pushes or merge new code to a master branch.
+6. BONUS 1: Try to do responsive mobile version yourself, without design
+7. BONUS 2: Try to use Github Actions to generate and deploy static page on Github pages, when ever user pushes or merge new code to a master branch.
